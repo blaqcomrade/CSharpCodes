@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\assignment 2 calculator\assignment 2 calculator\bin\Debug\net6.0\assignment 2 calculator.exe
+C:\Users\Student\source\repos\assignment 2 calculator\assignment 2 calculator\bin\Debug\net6.0\assignment 2 calculator.deps.json
+C:\Users\Student\source\repos\assignment 2 calculator\assignment 2 calculator\bin\Debug\net6.0\assignment 2 calculator.runtimeconfig.json
+C:\Users\Student\source\repos\assignment 2 calculator\assignment 2 calculator\bin\Debug\net6.0\assignment 2 calculator.dll
+C:\Users\Student\source\repos\assignment 2 calculator\assignment 2 calculator\bin\Debug\net6.0\assignment 2 calculator.pdb
+C:\Users\Student\source\repos\assignment 2 calculator\assignment 2 calculator\obj\Debug\net6.0\assignment 2 calculator.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\assignment 2 calculator\assignment 2 calculator\obj\Debug\net6.0\assignment 2 calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\assignment 2 calculator\assignment 2 calculator\obj\Debug\net6.0\assignment 2 calculator.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\assignment 2 calculator\assignment 2 calculator\obj\Debug\net6.0\assignment 2 calculator.AssemblyInfo.cs
+C:\Users\Student\source\repos\assignment 2 calculator\assignment 2 calculator\obj\Debug\net6.0\assignment 2 calculator.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\assignment 2 calculator\assignment 2 calculator\obj\Debug\net6.0\assignment 2 calculator.dll
+C:\Users\Student\source\repos\assignment 2 calculator\assignment 2 calculator\obj\Debug\net6.0\refint\assignment 2 calculator.dll
+C:\Users\Student\source\repos\assignment 2 calculator\assignment 2 calculator\obj\Debug\net6.0\assignment 2 calculator.pdb
+C:\Users\Student\source\repos\assignment 2 calculator\assignment 2 calculator\obj\Debug\net6.0\assignment 2 calculator.genruntimeconfig.cache
+C:\Users\Student\source\repos\assignment 2 calculator\assignment 2 calculator\obj\Debug\net6.0\ref\assignment 2 calculator.dll

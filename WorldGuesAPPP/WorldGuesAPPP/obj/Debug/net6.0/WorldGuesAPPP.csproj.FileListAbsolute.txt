@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\WorldGuesAPPP\WorldGuesAPPP\bin\Debug\net6.0\WorldGuesAPPP.exe
+C:\Users\Student\source\repos\WorldGuesAPPP\WorldGuesAPPP\bin\Debug\net6.0\WorldGuesAPPP.deps.json
+C:\Users\Student\source\repos\WorldGuesAPPP\WorldGuesAPPP\bin\Debug\net6.0\WorldGuesAPPP.runtimeconfig.json
+C:\Users\Student\source\repos\WorldGuesAPPP\WorldGuesAPPP\bin\Debug\net6.0\WorldGuesAPPP.dll
+C:\Users\Student\source\repos\WorldGuesAPPP\WorldGuesAPPP\bin\Debug\net6.0\WorldGuesAPPP.pdb
+C:\Users\Student\source\repos\WorldGuesAPPP\WorldGuesAPPP\obj\Debug\net6.0\WorldGuesAPPP.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\WorldGuesAPPP\WorldGuesAPPP\obj\Debug\net6.0\WorldGuesAPPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\WorldGuesAPPP\WorldGuesAPPP\obj\Debug\net6.0\WorldGuesAPPP.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\WorldGuesAPPP\WorldGuesAPPP\obj\Debug\net6.0\WorldGuesAPPP.AssemblyInfo.cs
+C:\Users\Student\source\repos\WorldGuesAPPP\WorldGuesAPPP\obj\Debug\net6.0\WorldGuesAPPP.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\WorldGuesAPPP\WorldGuesAPPP\obj\Debug\net6.0\WorldGuesAPPP.dll
+C:\Users\Student\source\repos\WorldGuesAPPP\WorldGuesAPPP\obj\Debug\net6.0\refint\WorldGuesAPPP.dll
+C:\Users\Student\source\repos\WorldGuesAPPP\WorldGuesAPPP\obj\Debug\net6.0\WorldGuesAPPP.pdb
+C:\Users\Student\source\repos\WorldGuesAPPP\WorldGuesAPPP\obj\Debug\net6.0\WorldGuesAPPP.genruntimeconfig.cache
+C:\Users\Student\source\repos\WorldGuesAPPP\WorldGuesAPPP\obj\Debug\net6.0\ref\WorldGuesAPPP.dll

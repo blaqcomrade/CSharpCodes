@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\foreachloop\foreachloop\bin\Debug\net6.0\foreachloop.exe
+C:\Users\Student\source\repos\foreachloop\foreachloop\bin\Debug\net6.0\foreachloop.deps.json
+C:\Users\Student\source\repos\foreachloop\foreachloop\bin\Debug\net6.0\foreachloop.runtimeconfig.json
+C:\Users\Student\source\repos\foreachloop\foreachloop\bin\Debug\net6.0\foreachloop.dll
+C:\Users\Student\source\repos\foreachloop\foreachloop\bin\Debug\net6.0\foreachloop.pdb
+C:\Users\Student\source\repos\foreachloop\foreachloop\obj\Debug\net6.0\foreachloop.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\foreachloop\foreachloop\obj\Debug\net6.0\foreachloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\foreachloop\foreachloop\obj\Debug\net6.0\foreachloop.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\foreachloop\foreachloop\obj\Debug\net6.0\foreachloop.AssemblyInfo.cs
+C:\Users\Student\source\repos\foreachloop\foreachloop\obj\Debug\net6.0\foreachloop.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\foreachloop\foreachloop\obj\Debug\net6.0\foreachloop.dll
+C:\Users\Student\source\repos\foreachloop\foreachloop\obj\Debug\net6.0\refint\foreachloop.dll
+C:\Users\Student\source\repos\foreachloop\foreachloop\obj\Debug\net6.0\foreachloop.pdb
+C:\Users\Student\source\repos\foreachloop\foreachloop\obj\Debug\net6.0\foreachloop.genruntimeconfig.cache
+C:\Users\Student\source\repos\foreachloop\foreachloop\obj\Debug\net6.0\ref\foreachloop.dll

@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\fieldsandpropertiesclasswork\fieldsandpropertiesclasswork\bin\Debug\net6.0\fieldsandpropertiesclasswork.exe
+C:\Users\Student\source\repos\fieldsandpropertiesclasswork\fieldsandpropertiesclasswork\bin\Debug\net6.0\fieldsandpropertiesclasswork.deps.json
+C:\Users\Student\source\repos\fieldsandpropertiesclasswork\fieldsandpropertiesclasswork\bin\Debug\net6.0\fieldsandpropertiesclasswork.runtimeconfig.json
+C:\Users\Student\source\repos\fieldsandpropertiesclasswork\fieldsandpropertiesclasswork\bin\Debug\net6.0\fieldsandpropertiesclasswork.dll
+C:\Users\Student\source\repos\fieldsandpropertiesclasswork\fieldsandpropertiesclasswork\bin\Debug\net6.0\fieldsandpropertiesclasswork.pdb
+C:\Users\Student\source\repos\fieldsandpropertiesclasswork\fieldsandpropertiesclasswork\obj\Debug\net6.0\fieldsandpropertiesclasswork.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\fieldsandpropertiesclasswork\fieldsandpropertiesclasswork\obj\Debug\net6.0\fieldsandpropertiesclasswork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\fieldsandpropertiesclasswork\fieldsandpropertiesclasswork\obj\Debug\net6.0\fieldsandpropertiesclasswork.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\fieldsandpropertiesclasswork\fieldsandpropertiesclasswork\obj\Debug\net6.0\fieldsandpropertiesclasswork.AssemblyInfo.cs
+C:\Users\Student\source\repos\fieldsandpropertiesclasswork\fieldsandpropertiesclasswork\obj\Debug\net6.0\fieldsandpropertiesclasswork.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\fieldsandpropertiesclasswork\fieldsandpropertiesclasswork\obj\Debug\net6.0\fieldsandpropertiesclasswork.dll
+C:\Users\Student\source\repos\fieldsandpropertiesclasswork\fieldsandpropertiesclasswork\obj\Debug\net6.0\refint\fieldsandpropertiesclasswork.dll
+C:\Users\Student\source\repos\fieldsandpropertiesclasswork\fieldsandpropertiesclasswork\obj\Debug\net6.0\fieldsandpropertiesclasswork.pdb
+C:\Users\Student\source\repos\fieldsandpropertiesclasswork\fieldsandpropertiesclasswork\obj\Debug\net6.0\fieldsandpropertiesclasswork.genruntimeconfig.cache
+C:\Users\Student\source\repos\fieldsandpropertiesclasswork\fieldsandpropertiesclasswork\obj\Debug\net6.0\ref\fieldsandpropertiesclasswork.dll
