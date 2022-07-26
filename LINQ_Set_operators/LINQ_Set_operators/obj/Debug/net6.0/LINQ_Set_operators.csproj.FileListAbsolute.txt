@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\LINQ_Set_operators\LINQ_Set_operators\bin\Debug\net6.0\LINQ_Set_operators.exe
+C:\Users\Student\source\repos\LINQ_Set_operators\LINQ_Set_operators\bin\Debug\net6.0\LINQ_Set_operators.deps.json
+C:\Users\Student\source\repos\LINQ_Set_operators\LINQ_Set_operators\bin\Debug\net6.0\LINQ_Set_operators.runtimeconfig.json
+C:\Users\Student\source\repos\LINQ_Set_operators\LINQ_Set_operators\bin\Debug\net6.0\LINQ_Set_operators.dll
+C:\Users\Student\source\repos\LINQ_Set_operators\LINQ_Set_operators\bin\Debug\net6.0\LINQ_Set_operators.pdb
+C:\Users\Student\source\repos\LINQ_Set_operators\LINQ_Set_operators\obj\Debug\net6.0\LINQ_Set_operators.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\LINQ_Set_operators\LINQ_Set_operators\obj\Debug\net6.0\LINQ_Set_operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\LINQ_Set_operators\LINQ_Set_operators\obj\Debug\net6.0\LINQ_Set_operators.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\LINQ_Set_operators\LINQ_Set_operators\obj\Debug\net6.0\LINQ_Set_operators.AssemblyInfo.cs
+C:\Users\Student\source\repos\LINQ_Set_operators\LINQ_Set_operators\obj\Debug\net6.0\LINQ_Set_operators.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\LINQ_Set_operators\LINQ_Set_operators\obj\Debug\net6.0\LINQ_Set_operators.dll
+C:\Users\Student\source\repos\LINQ_Set_operators\LINQ_Set_operators\obj\Debug\net6.0\refint\LINQ_Set_operators.dll
+C:\Users\Student\source\repos\LINQ_Set_operators\LINQ_Set_operators\obj\Debug\net6.0\LINQ_Set_operators.pdb
+C:\Users\Student\source\repos\LINQ_Set_operators\LINQ_Set_operators\obj\Debug\net6.0\LINQ_Set_operators.genruntimeconfig.cache
+C:\Users\Student\source\repos\LINQ_Set_operators\LINQ_Set_operators\obj\Debug\net6.0\ref\LINQ_Set_operators.dll

@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\Libaryapp\Libaryapp\bin\Debug\net6.0\Libaryapp.exe
+C:\Users\Student\source\repos\Libaryapp\Libaryapp\bin\Debug\net6.0\Libaryapp.deps.json
+C:\Users\Student\source\repos\Libaryapp\Libaryapp\bin\Debug\net6.0\Libaryapp.runtimeconfig.json
+C:\Users\Student\source\repos\Libaryapp\Libaryapp\bin\Debug\net6.0\Libaryapp.dll
+C:\Users\Student\source\repos\Libaryapp\Libaryapp\bin\Debug\net6.0\Libaryapp.pdb
+C:\Users\Student\source\repos\Libaryapp\Libaryapp\obj\Debug\net6.0\Libaryapp.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Libaryapp\Libaryapp\obj\Debug\net6.0\Libaryapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Libaryapp\Libaryapp\obj\Debug\net6.0\Libaryapp.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Libaryapp\Libaryapp\obj\Debug\net6.0\Libaryapp.AssemblyInfo.cs
+C:\Users\Student\source\repos\Libaryapp\Libaryapp\obj\Debug\net6.0\Libaryapp.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Libaryapp\Libaryapp\obj\Debug\net6.0\Libaryapp.dll
+C:\Users\Student\source\repos\Libaryapp\Libaryapp\obj\Debug\net6.0\refint\Libaryapp.dll
+C:\Users\Student\source\repos\Libaryapp\Libaryapp\obj\Debug\net6.0\Libaryapp.pdb
+C:\Users\Student\source\repos\Libaryapp\Libaryapp\obj\Debug\net6.0\Libaryapp.genruntimeconfig.cache
+C:\Users\Student\source\repos\Libaryapp\Libaryapp\obj\Debug\net6.0\ref\Libaryapp.dll

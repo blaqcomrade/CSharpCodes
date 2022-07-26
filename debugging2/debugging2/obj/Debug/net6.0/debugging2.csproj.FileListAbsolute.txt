@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\debugging2\debugging2\bin\Debug\net6.0\debugging2.exe
+C:\Users\Student\source\repos\debugging2\debugging2\bin\Debug\net6.0\debugging2.deps.json
+C:\Users\Student\source\repos\debugging2\debugging2\bin\Debug\net6.0\debugging2.runtimeconfig.json
+C:\Users\Student\source\repos\debugging2\debugging2\bin\Debug\net6.0\debugging2.dll
+C:\Users\Student\source\repos\debugging2\debugging2\bin\Debug\net6.0\debugging2.pdb
+C:\Users\Student\source\repos\debugging2\debugging2\obj\Debug\net6.0\debugging2.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\debugging2\debugging2\obj\Debug\net6.0\debugging2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\debugging2\debugging2\obj\Debug\net6.0\debugging2.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\debugging2\debugging2\obj\Debug\net6.0\debugging2.AssemblyInfo.cs
+C:\Users\Student\source\repos\debugging2\debugging2\obj\Debug\net6.0\debugging2.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\debugging2\debugging2\obj\Debug\net6.0\debugging2.dll
+C:\Users\Student\source\repos\debugging2\debugging2\obj\Debug\net6.0\refint\debugging2.dll
+C:\Users\Student\source\repos\debugging2\debugging2\obj\Debug\net6.0\debugging2.pdb
+C:\Users\Student\source\repos\debugging2\debugging2\obj\Debug\net6.0\debugging2.genruntimeconfig.cache
+C:\Users\Student\source\repos\debugging2\debugging2\obj\Debug\net6.0\ref\debugging2.dll

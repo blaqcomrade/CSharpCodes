@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimCardApp", "SimCardApp\SimCardApp.csproj", "{B8A1EDF2-0CDA-4B6B-B493-6B7A30CF14C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimCardTestUnit", "SimCardTestUnit\SimCardTestUnit.csproj", "{862D8182-1E88-428A-B559-38B5CC760992}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8A1EDF2-0CDA-4B6B-B493-6B7A30CF14C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A1EDF2-0CDA-4B6B-B493-6B7A30CF14C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A1EDF2-0CDA-4B6B-B493-6B7A30CF14C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A1EDF2-0CDA-4B6B-B493-6B7A30CF14C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{862D8182-1E88-428A-B559-38B5CC760992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{862D8182-1E88-428A-B559-38B5CC760992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{862D8182-1E88-428A-B559-38B5CC760992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{862D8182-1E88-428A-B559-38B5CC760992}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB7F0450-FBA4-4064-BE55-55F12481A4E9}
+	EndGlobalSection
+EndGlobal
