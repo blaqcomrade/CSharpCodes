@@ -16,15 +16,15 @@ namespace FileMoverApp
 
 
             var files = Directory.GetFiles(rootpath, "*.JPG");
-            
 
-            string newpath = @"C:\Users\Student\Downloads\imgsubfolder";
 
-           if (files.Length == 0)
+            string newpath = @"C:\Users\Student\Downloads\imgsubfolder\";
+
+            if (files.Length == 0)
             {
                 Console.WriteLine("sorry image file does not exist");
             }
-           
+
             foreach (string file in files)
             {
                 if (Directory.Exists(newpath))
@@ -38,22 +38,18 @@ namespace FileMoverApp
                     {
                         Console.WriteLine("sorry file already exist");
                     }
-
-                   
                 }
                 else
                 {
                     Directory.CreateDirectory(newpath);
                     File.Move(file, $"{newpath}{Path.GetFileName(file)} ");
-                    Console.WriteLine("IMAGES MOVED SUCCESSFULLY");
+                    Console.WriteLine("successful");
                 }
 
-                break;
+
             }
-           
             Console.ReadLine();
         }
 
     }
 }
-
