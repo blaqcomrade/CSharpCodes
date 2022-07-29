@@ -1,0 +1,8 @@
+C:\Users\Student\source\repos\CompletePhoneBook\CompletePhoneBook\bin\Debug\CompletePhoneBook.exe.config
+C:\Users\Student\source\repos\CompletePhoneBook\CompletePhoneBook\bin\Debug\CompletePhoneBook.exe
+C:\Users\Student\source\repos\CompletePhoneBook\CompletePhoneBook\bin\Debug\CompletePhoneBook.pdb
+C:\Users\Student\source\repos\CompletePhoneBook\CompletePhoneBook\obj\Debug\CompletePhoneBook.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\CompletePhoneBook\CompletePhoneBook\obj\Debug\CompletePhoneBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\source\repos\CompletePhoneBook\CompletePhoneBook\obj\Debug\CompletePhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\CompletePhoneBook\CompletePhoneBook\obj\Debug\CompletePhoneBook.exe
+C:\Users\Student\source\repos\CompletePhoneBook\CompletePhoneBook\obj\Debug\CompletePhoneBook.pdb
